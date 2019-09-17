@@ -30,8 +30,8 @@
   "dependencies": {
     "@feathersjs/errors": "^3.2.2",
     "feathers-hooks-common": "^4.3.0",
-    "joi": "^10.6.0",
-    "joi-errors-for-forms": "^0.2.2"
+    "joi": "^14.3.1",
+    "joi-errors-for-forms": "^0.2.6"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
